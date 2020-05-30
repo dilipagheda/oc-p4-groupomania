@@ -3,7 +3,7 @@
 This is the 4th project as part of the Openclassroom's Backend .NET developer path. It is about creating a solution for a company called Groupomania. The solution replicates the popular Groupon website.
 
 # About the project
-Implementation is the project is not started yet!! So far I have designed the concept and functional specfications. Watch this space for a complete solution :-)
+Implementation of the project is not started yet!! So far I have designed the concept and functional specfications. Watch this space for a complete solution :-)
 
 
 # Class diagram
